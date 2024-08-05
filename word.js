@@ -1,70 +1,122 @@
 const wordList = [
+  { 
+      word: "peter",
+      hint: "My lost fearless leader"
+    },
   {
-    word: "python",
-    hint: "programming language"
+    word: "glitch",
+    hint: "Nights are so starry, blood moonlit"
   },
   {
-    word: "piano",
-    hint: "musical instrument"
+    word: "paris",
+    hint: "Some wannabe Z-lister"
   },
   {
-    word: "head",
-    hint: "part of the body"
+    word: "karma",
+    hint: "My pennies made your crown"
   },
   {
-    word: "poop",
-    hint: "smelly"
+    word: "labyrinth",
+    hint: "I thought the plane was going down"
   },
   {
-  word: "hello",
-  hint: "greeting"
+    word: "bejeweled",
+    hint: "Familiarity breeds contempt"
   },
   {
-  word: "pencil",
-  hint: "writing utensil"
+    word: "Question",
+    hint: "But 15 seconds later they were clapping too?"
   },
   {
-    word: "Ipad",
-    hint: "electronic device"
+    word: "maroon",
+    hint: "In New York, no shoes"
   },
   {
-    word: "socks",
-    hint: "clothing"
+    word: "closure",
+    hint: "Don't treat me like some situation that needs to be handled"
   },
   {
-    word: "chocolate",
-    hint: "sweet"
+    word: "marjorie",
+    hint: "What died didn't stay dead"
   },
   {
-    word: "chips",
-    hint: "snack"
+    word: "ivy",
+    hint: "My pain fits in the palm of your freezing hand"
   },
   {
-    word: "water",
-    hint: "liquid"
+    word: "dorothea",
+    hint: "Do you ever stop and think about me?"
   },
   {
-    word: "ruler",
-    hint: "measuring tool"
+    word: "happiness",
+    hint: "Honey, when I'm above the trees"
   },
   {
-    word: "car",
-    hint: "automobile"
+    word: "evermore",
+    hint: "Ive been down since July"
   },
   {
-    word: "earth",
-    hint: "planet"
+    word: "willow",
+    hint: "And there was one prize I'd cheat to win"
   },
   {
-    word: "supernova",
-    hint: "explosion"
+    word: "hoax",
+    hint: "My smoking gun"
   },
   {
-    word: "qwerty",
-    hint: "keyboard"
+    word: "peace",
+    hint: "I never had the courage of my convictions"
   },
   {
-    word: "sigma",
-    hint: "greek letter"
+    word: "betty",
+    hint: "Or lead me to the garden?"
   },
-]
+  {
+    word: "epiphany",
+    hint: "Only 20 minutes to sleep"
+  },
+  {
+    word: "august",
+    hint: "But I can see us lost in the memory"
+  },
+  {
+    word: "seven",
+    hint: "With Pennsylvania under me"
+  },
+  {
+    word: "mirrorball",
+    hint: "And when I break it's in a million pieces"
+  },
+  {
+    word: "exile",
+    hint: "Those eyes add insult to injury"
+  },
+  {
+    word: "cardigan",
+    hint: "Your heartbeat on the High Line"
+  },
+  {
+    word: "the 1",
+    hint: "For never leaving well enough alone"
+  },
+  {
+    word: "daylight",
+    hint: "Back and forth from new york."
+  },
+  {
+    word: "Me!",
+    hint: "Hey kids spellings fun!"
+  },
+  {
+    word: "Afterglow",
+    hint: "Hey, its all me, in my head"
+  },
+  {
+    word: "lover",
+    hint: "Can i go where you go?"
+  },
+  {
+    word: "dress",
+    hint: "carve you name into my bedpost"
+  }
+  ]
