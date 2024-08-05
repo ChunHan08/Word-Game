@@ -118,5 +118,115 @@ const wordList = [
   {
     word: "dress",
     hint: "carve you name into my bedpost"
-  }
+  },
+  {
+    word: "Gorgeous",
+    hint: "Unless you wanna come along?"
+  },
+  {
+    word: "delicate",
+    hint: "I pretend your mine all the damn time"
+  },
+  {
+    word: "clean",
+    hint: "ten months sober"
+  },
+  {
+    word: "style",
+    hint: "Takes me home"
+  },
+  {
+    word: "run",
+    hint: "I'll wait for you"
+  },
+  {
+    word: "babe",
+    hint: "Im here on the kitchen floor"
+  },
+  {
+    word: "ronan",
+    hint: "you were my best four years"
+  },
+  {
+    word: "treacherous",
+    hint: "this slope is reckless"
+  },
+  {
+    word: "red",
+    hint: "Missing him was dark grey, all alone"
+  },
+  {
+    word: "timeless",
+    hint: "So even in a different life"
+  },
+  {
+    word: "Superman",
+    hint: "Go save the world, I'll be around"
+  },
+  {
+    word: "ours",
+    hint: "But this love is "
+  },
+  {
+    word: "enchanted",
+    hint: "This was the very first page"
+  },
+  {
+    word: "mean",
+    hint: "Well you can take me down"
+  },
+  {
+    word: "Mine",
+    hint: "I can see it now"
+  },
+  {
+    word: "Superstar",
+    hint: "You smile that beautiful smile"
+  },
+  {
+    word: "Untouchable",
+    hint: "Its like a million little stars spelling out your name"
+  },
+  {
+    word: "Change",
+    hint: "And well sing hulleigyah"
+  },
+  {
+    word: "Fifteen",
+    hint: "Take a deep breath, go"
+  },
+  {
+    word: "Fearless",
+    hint: "Run your hairs through your hair"
+  },
+  {
+    word: "Invisible",
+    hint: "She don't even know you"
+  },
+  {
+    word: "Cassandra",
+    hint: "I patched up the crack along the wall"
+  },
+  {
+    word: "robin",
+    hint: "you are bloodthirsty"
+  },
+  {
+    word: "fortnight",
+    hint: "All of this to say I hope your're okay"
+  },
+  {
+    word: "carolina",
+    hint: "I make a fist, I make it count"
+  },
+  {
+    word: "renegade",
+    hint: "I tapped on your window on your darkest night"
+  },
+  {
+    word: "crazier",
+    hint: "You make me crazier"
+  },
+
+
   ]
